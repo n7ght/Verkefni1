@@ -1,0 +1,49 @@
+body {
+	max-width: 50em;
+	margin-top: 0;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:  #00FFFF;
+}
+h1 {
+	border: 2px solid blue;
+}
+h3 {
+	border-bottom: 1px solid;
+}
+
+.container {
+	margin-bottom: 1em;
+	padding: 1em;
+	background-color: rgba(255,255,100,.8)
+}
+
+.box {
+	color: red;
+	margin-top: 3em;
+	padding: 2em;
+	border: 5px dashed orange;
+}
+.box2 {
+	color: blue;
+	border: 5px dotted blue;
+	padding: .5em;
+}
+.in_line li {
+	display: inline;
+	border: 1px solid;
+	padding: 2px dotted orange;
+	margin-top: 5em; 
+}
+.in_line_block li {
+	display: inline-block;
+	border: 1px solid;
+	padding: 2px dotted orange;
+	margin-top: 5em; 
+}
+
+
+
+/* klasi er með  fyrir framan heitið */
+
